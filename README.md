@@ -35,7 +35,7 @@ Features:
 
 - Clone the repository
   ```sh
-  git clone https://github.com/sabraman/qrcode-generator.git
+  git clone https://github.com/sabraman/qrcode.git
   ```
 - Navigate to repository folder
   ```sh
